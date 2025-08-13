@@ -253,11 +253,6 @@ int main() {
 	printf("Number of variable assignments : %d\n", variableassignment);
 	printf("Number of expressions : %d\n", expressionnumber);
 
-	printf("\n**********************************\n");
-	printf("Name : Faisal Ahmed\n");
-	printf("Roll : 1607048\n");
-	// ... rest of your info
-	printf("**********************************\n");
 
 	return 0;
 }
